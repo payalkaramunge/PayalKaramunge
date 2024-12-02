@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Sangam+Shinde!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Payal+Karamunge!;"/>
 </h1>
 
-<h3 align="center">A passionate software developer from India </h3>
+<h3 align="center">A passionate software Test Engineer from India </h3>
 
 <br/>
 
@@ -10,15 +10,15 @@
  
  🔭 I’m currently working at *Predrag System LLP*
  
- 🌱 I’m currently learning *Laravel + PHP*
+ 🌱 I’m currently learning *Automation + Testing*
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:sangampshinde@gmail.com">
+  <a href="mailto:karamungepayal29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/sangamshinde" target="_blank">
+  <a href="https://www.linkedin.com/in/payal-karamunge/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://sangam-shinde.netlify.app" target="_blank">
